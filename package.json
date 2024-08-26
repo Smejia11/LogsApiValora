@@ -1,0 +1,12 @@
+{
+  "name": "scriptnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
